@@ -69,7 +69,6 @@ In windows this ANDROID_HOME is not automatically created, see more in [here](ht
 Additionally, on windows in order to use git commands, the following path should be on the environment variable
   - ```...\Git\cmd ```
 
-
 ## Alternative scenario (if you don't use `dryrun`)
 
 1. Find the github's repository url
